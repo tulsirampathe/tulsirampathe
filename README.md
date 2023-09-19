@@ -1,4 +1,4 @@
-<img width="2000px" height="600px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img width="2000px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <h1 align="center">Hi 👋, I'm Tulsiram Pathe</h1>
 <h3 align="center">A passionate Softwrae Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
