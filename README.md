@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
-- 🌱 I’m currently learning **c++, java**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **tulsirampathe81@gamil.com**
 
